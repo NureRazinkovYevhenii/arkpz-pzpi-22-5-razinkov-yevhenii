@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\AquaSense\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|c:\\users\\alex\\source\\repos\\aquasense\\aquasense\\controllers\\iotcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|solutionrelative:aquasense\\controllers\\iotcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|c:\\users\\alex\\source\\repos\\aquasense\\aquasense\\controllers\\aquariumcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|solutionrelative:aquasense\\controllers\\aquariumcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|c:\\users\\alex\\source\\repos\\aquasense\\aquasense\\services\\aquariumservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|solutionrelative:aquasense\\services\\aquariumservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|c:\\users\\alex\\source\\repos\\aquasense\\aquasense\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|solutionrelative:aquasense\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|c:\\users\\alex\\source\\repos\\aquasense\\aquasense\\models\\aquarium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|solutionrelative:aquasense\\models\\aquarium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|c:\\users\\alex\\source\\repos\\aquasense\\aquasense\\requests\\aquariumrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|solutionrelative:aquasense\\requests\\aquariumrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|c:\\users\\alex\\source\\repos\\aquasense\\aquasense\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|solutionrelative:aquasense\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|c:\\users\\alex\\source\\repos\\aquasense\\aquasense\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|solutionrelative:aquasense\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|c:\\users\\alex\\source\\repos\\aquasense\\aquasense\\controllers\\authcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|solutionrelative:aquasense\\controllers\\authcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|c:\\users\\alex\\source\\repos\\aquasense\\aquasense\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|solutionrelative:aquasense\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|c:\\users\\alex\\source\\repos\\aquasense\\aquasense\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|solutionrelative:aquasense\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|c:\\users\\alex\\source\\repos\\aquasense\\aquasense\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|solutionrelative:aquasense\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|c:\\users\\alex\\source\\repos\\aquasense\\aquasense\\aquasensedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|solutionrelative:aquasense\\aquasensedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|c:\\users\\alex\\source\\repos\\aquasense\\aquasense\\services\\iotservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|solutionrelative:aquasense\\services\\iotservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|c:\\users\\alex\\source\\repos\\aquasense\\aquasense\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|solutionrelative:aquasense\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|c:\\users\\alex\\source\\repos\\aquasense\\aquasense\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|solutionrelative:aquasense\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|c:\\users\\alex\\source\\repos\\aquasense\\aquasense\\aquasense.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|solutionrelative:aquasense\\aquasense.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|c:\\users\\alex\\source\\repos\\aquasense\\aquasense\\aquasense.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{82770396-122A-4962-9DB1-BC2E5048FB22}|AquaSense\\AquaSense.csproj|solutionrelative:aquasense\\aquasense.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AquaSense",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\AquaSense.csproj",
+              "RelativeDocumentMoniker": "AquaSense\\AquaSense.csproj",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\AquaSense.csproj",
+              "RelativeToolTip": "AquaSense\\AquaSense.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T12:04:11.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AquaSense\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\appsettings.Development.json",
+              "RelativeToolTip": "AquaSense\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T11:42:43.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\appsettings.json",
+              "RelativeDocumentMoniker": "AquaSense\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\appsettings.json",
+              "RelativeToolTip": "AquaSense\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T11:42:38.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Program.cs",
+              "RelativeDocumentMoniker": "AquaSense\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Program.cs",
+              "RelativeToolTip": "AquaSense\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:42:48.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AquariumController .cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Controllers\\AquariumController .cs",
+              "RelativeDocumentMoniker": "AquaSense\\Controllers\\AquariumController .cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Controllers\\AquariumController .cs",
+              "RelativeToolTip": "AquaSense\\Controllers\\AquariumController .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:27:57.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController .cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Controllers\\AuthController .cs",
+              "RelativeDocumentMoniker": "AquaSense\\Controllers\\AuthController .cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Controllers\\AuthController .cs",
+              "RelativeToolTip": "AquaSense\\Controllers\\AuthController .cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:12:19.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AquariumService .cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Services\\AquariumService .cs",
+              "RelativeDocumentMoniker": "AquaSense\\Services\\AquariumService .cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Services\\AquariumService .cs",
+              "RelativeToolTip": "AquaSense\\Services\\AquariumService .cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA0wBgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:22:27.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "AquaSense\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "AquaSense\\Services\\AuthenticationService.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAmwEMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:10:40.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "AquaSense\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Repository\\Repository.cs",
+              "RelativeToolTip": "AquaSense\\Repository\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:06:07.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IoTController .cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Controllers\\IoTController .cs",
+              "RelativeDocumentMoniker": "AquaSense\\Controllers\\IoTController .cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Controllers\\IoTController .cs",
+              "RelativeToolTip": "AquaSense\\Controllers\\IoTController .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:25:15.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AquaSense\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Models\\User.cs",
+              "RelativeToolTip": "AquaSense\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:11:28.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aquarium.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Models\\Aquarium.cs",
+              "RelativeDocumentMoniker": "AquaSense\\Models\\Aquarium.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Models\\Aquarium.cs",
+              "RelativeToolTip": "AquaSense\\Models\\Aquarium.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:39:06.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AquariumRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Requests\\AquariumRequest.cs",
+              "RelativeDocumentMoniker": "AquaSense\\Requests\\AquariumRequest.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Requests\\AquariumRequest.cs",
+              "RelativeToolTip": "AquaSense\\Requests\\AquariumRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:27:13.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "AquaSense\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Repository\\IRepository.cs",
+              "RelativeToolTip": "AquaSense\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:04:38.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IoTService .cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Services\\IoTService .cs",
+              "RelativeDocumentMoniker": "AquaSense\\Services\\IoTService .cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Services\\IoTService .cs",
+              "RelativeToolTip": "AquaSense\\Services\\IoTService .cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:23:35.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AquaSenseDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\AquaSenseDbContext.cs",
+              "RelativeDocumentMoniker": "AquaSense\\AquaSenseDbContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\AquaSenseDbContext.cs",
+              "RelativeToolTip": "AquaSense\\AquaSenseDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:45:14.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AquaSense\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AquaSense\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T11:42:41.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AquaSense.http",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\AquaSense.http",
+              "RelativeDocumentMoniker": "AquaSense\\AquaSense.http",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AquaSense\\AquaSense\\AquaSense.http",
+              "RelativeToolTip": "AquaSense\\AquaSense.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-09T11:42:37.727Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
